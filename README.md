@@ -16,6 +16,7 @@ Se han añadido 2 vectores y se han realizado las tareas asociadas.
 
 ## Ejercicio 4
 Se imprime el vector posición de la esfera.
+
 ![tarea-2-interfaces (2)](https://github.com/Francisco-Marques-Armas/tarea-2-interfaces/assets/72305337/1154108e-4da3-4014-84ad-1891a2eeb18f)
 
 
